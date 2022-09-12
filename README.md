@@ -5,12 +5,7 @@ Hi there 👋
 I'm Master of Synthetic Biology,
 
 
-### Hi there 👋
-
-
-
-
-### Publication
+# Publication
 <hr>
 **Novel High-Throughput DNA Part Characterization Technique for Synthetic Biology.**  
 **Bak SK**, Seong W, Rha E, Lee H, Kim SK, Kwon KK, Kim H, Lee SG.                    
