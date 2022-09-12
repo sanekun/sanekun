@@ -1,16 +1,19 @@
+## SaneKun
+
+Hi there 👋  
+
+I'm Master of Synthetic Biology,
+
+
 ### Hi there 👋
 
-<!--
-**Lelp27/Lelp27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Publication
+<hr>
+**Novel High-Throughput DNA Part Characterization Technique for Synthetic Biology.**  
+**Bak SK**, Seong W, Rha E, Lee H, Kim SK, Kwon KK, Kim H, Lee SG.                    
+J Microbiol Biotechnol, 28;32(8):1026-1033 (2022). 
+
+doi: [10.4014/jmb.2207.07013](https://doi.org/10.4014/jmb.2207.07013)
