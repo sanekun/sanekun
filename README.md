@@ -3,7 +3,7 @@
 Hi there 👋  
 
 I'm Master of Synthetic Biology.  
-Now, I'm learning WebFrameworks by Python to make Web tools for Synthetic biology.
+Now, I'm learning WebFrameworks by Python to make Web tools for Synthetic biology.  
 
 
 # Publication
@@ -12,3 +12,7 @@ Now, I'm learning WebFrameworks by Python to make Web tools for Synthetic biolog
 J Microbiol Biotechnol, 28;32(8):1026-1033 (2022). 
 
 doi: [10.4014/jmb.2207.07013](https://doi.org/10.4014/jmb.2207.07013)
+
+# Thesis
+
+To know what I did, Plz check my thesis [Thesis-repository](https://github.com/Lelp27/HT-techniques-synbio).  
