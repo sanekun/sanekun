@@ -15,4 +15,4 @@ doi: [10.4014/jmb.2207.07013](https://doi.org/10.4014/jmb.2207.07013)
 
 # Thesis
 
-To know what I did, Plz check my thesis [Thesis-repository](https://github.com/Lelp27/HT-techniques-synbio).  
+To know what I did, Plz check my thesis [HT-techniques-synbio](https://github.com/Lelp27/HT-techniques-synbio).  
