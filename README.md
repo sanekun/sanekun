@@ -1,12 +1,12 @@
-## SaneKun
+# SaneKun
 
 Hi there 👋  
 
-I'm Master of Synthetic Biology,
+I'm Master of Synthetic Biology.  
+Now, I'm learning WebFrameworks by Python to make Web tools for Synthetic biology.
 
 
 # Publication
-<hr>
 **Novel High-Throughput DNA Part Characterization Technique for Synthetic Biology.**  
 **Bak SK**, Seong W, Rha E, Lee H, Kim SK, Kwon KK, Kim H, Lee SG.                    
 J Microbiol Biotechnol, 28;32(8):1026-1033 (2022). 
