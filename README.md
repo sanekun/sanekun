@@ -2,7 +2,7 @@
 
 Hi there 👋  
 
-I'm Master of Synthetic Biology.  
+Ms. Synthetic Biology  
 Now, I'm learning WebFrameworks by Python to make Web tools for Synthetic biology.  
 
 
