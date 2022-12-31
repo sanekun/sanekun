@@ -3,7 +3,12 @@
 Hi there 👋  
 
 Ms. Synthetic Biology  
-Now, I'm learning WebFrameworks by Python to make Web tools for Synthetic biology.  
+
+I studied Synthetic Biology and Computational Skills.
+So i can do genetic engineering and databased analysis (called wet lab and dry lab).
+
+In master course, I studied Synthetic Biology such as High-throughput techniques and Bio Automation System (Biofoundry).
+Now I'm learning WebFrameworks and AI techniques to make Web tools for Synthetic Biology.
 
 
 # Publication
