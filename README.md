@@ -2,13 +2,19 @@
 
 Hi there 👋  
 
-Ms. Synthetic Biology  
+I'm a Phd student in Korea [Engineering biology school in KAIST](https://eb.kaist.ac.kr/#Main).
 
-I studied Synthetic Biology and Computational Skills.  
-So i can do genetic engineering and databased analysis (called wet lab and dry lab).  
+My research keyowards are:  `Biofoundry`, `Nanopore sequencing tehcnology`, `Synthetic biology`
 
-In master course, I studied Synthetic Biology such as High-throughput techniques and Bio Automation System (Biofoundry).  
-Now I'm learning WebFrameworks and AI techniques to make Web tools for Synthetic Biology.
+I'm interested in synthetic biology, which is integrated with wet lab and dry lab.  
+And also i really like data & computer science so i'm trying to create web applications or develop servicecs needed for synthetic biology.  
+
+In master course, I studied High-throughput phenotyping & genotyping techniques  
+such as enzyme screeing, pathway optimization, NGS analysis.  
+
+From phd course to now, I'm studying Fully automated **biofoundry**.  
+With high-throughput techniques gather, I collect basic data and make model,  
+then make automatically experiment system based-on that model to reach **Autonomy**.
 
 
 # Publication
@@ -20,4 +26,4 @@ doi: [10.4014/jmb.2207.07013](https://doi.org/10.4014/jmb.2207.07013)
 
 # Thesis
 
-To know what I did in detail. Plz check my thesis [HT-techniques-synbio](https://github.com/Lelp27/HT-techniques-synbio).  
+To know what I did in detail. Please check my thesis [HT-techniques-synbio](https://github.com/Lelp27/HT-techniques-synbio).  
